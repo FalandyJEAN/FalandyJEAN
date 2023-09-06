@@ -11,6 +11,7 @@ Je suis passionné par le domaine de l'informatique et je me lance dans l'appren
 - HTML
 - CSS
 - JavaScript
+- Python
 
 ## Projets
 Jetez un coup d'œil à quelques-uns de mes projets GitHub :
