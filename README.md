@@ -16,6 +16,7 @@ Je suis passionné par le domaine de l'informatique et je me lance dans l'appren
 ## Projets
 Jetez un coup d'œil à quelques-uns de mes projets GitHub :
 1. [Projet 1](https://falandyjean.github.io/Portfolio/) - C'est mon Premier Portfolio.
+2. [Projet 2](https://falandyjean.github.io/GenerateurPseudo/) - C'est un generateur de pseudonyme.
 
 
 N'hésitez pas à explorer ces projets et à me faire part de vos commentaires et suggestions.
