@@ -1,5 +1,5 @@
 👋 Salut, je suis Falandy JEAN
-👀 Je suis etudiant en genie informatique
+👀 Je suis etudiant en Sciences Informatiques
 🌱 En ce moment, j'apprends HTML, CSS et JavaScript
 
 # Bienvenue sur mon profil GitHub !
