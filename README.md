@@ -73,7 +73,7 @@ Je travaille sur des projets concrets pour renforcer mes compétences :
 
 ## 📫 Contact
 
-- 📬 Email : broth.dev@exemple.com  
+- 📬 Email : contact@mackandal-tech.com  
 - 🌐 Site : [https://mackandal-tech.com](https://mackandal-tech.com)
 
 ---
