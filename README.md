@@ -25,7 +25,8 @@ Je suis **Falandy JEAN**, étudiant en informatique à l'**École Supérieure d'
 - **Prompt Engineering** – Construction de prompts immersifs et optimisés
 - **Git / GitHub** – Collaboration, versionnage, gestion de projet
 
-[![trophy]https://github-profile-trophy.vercel.app/?username=FalandyJEAN&theme=light
+[![trophy](https://github-profile-trophy.vercel.app/?username=FalandyJEAN&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ➡️ [Voir le projet Mackandal](https://github.com/FalandyJEAN/mackandal)
 
