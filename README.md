@@ -1,4 +1,4 @@
-![Bannière](.github-header-image.png)
+![Bannière](https://github.com/FalandyJEAN/FalandyJEAN/blob/main/github-header-image.png)
 
 # 👋 Bienvenue sur mon GitHub
 
