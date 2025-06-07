@@ -1,3 +1,5 @@
+![Bannière](./assets/nom-de-ton-image.png)
+
 # 👋 Bienvenue sur mon GitHub
 
 ## 🧑‍💻 À propos de moi
