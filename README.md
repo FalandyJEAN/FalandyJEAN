@@ -1,4 +1,4 @@
-![Bannière](./assets/nom-de-ton-image.png)
+![Bannière](.github-header-image.png)
 
 # 👋 Bienvenue sur mon GitHub
 
