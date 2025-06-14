@@ -10,9 +10,35 @@ Je suis **Falandy JEAN**, étudiant en informatique à l'**École Supérieure d'
 
 ## 🧠 Projets phares
 
+### 🔐 Lockbox Auth
+
+**Lockbox Auth** est une bibliothèque d'authentification complète avec système de rôles avancé (RBAC) pour Node.js/Express. Un package NPM professionnel conçu pour simplifier l'implémentation de l'authentification dans les applications web modernes.
+
+#### 🎯 Fonctionnalités clés :
+- Authentification JWT sécurisée avec refresh tokens
+- Système de rôles hiérarchique (RBAC) avec modèles prédéfinis
+- Middleware Express intégré pour la protection des routes
+- Gestion des emails (réinitialisation, vérification)
+- CLI intégré pour l'initialisation rapide
+- Templates sectoriels (Blog, E-commerce, Corporate)
+
+#### 🧰 Technologies utilisées :
+- **TypeScript** – Développement type-safe
+- **Express.js** – Framework web Node.js
+- **Prisma** – ORM moderne pour la base de données
+- **JWT** – Gestion des tokens sécurisés
+- **Argon2** – Chiffrement des mots de passe
+- **Vitest** – Tests unitaires et d'intégration
+
+[![npm version](https://badge.fury.io/js/@falandyjean%2Flockbox-auth.svg)](https://badge.fury.io/js/@falandyjean%2Flockbox-auth)
+
+➡️ [Voir le package NPM](https://www.npmjs.com/package/@falandyjean/lockbox-auth) | [Code source](https://github.com/FalandyJEAN/lockbox-auth)
+
+---
+
 ### Mackandal AI
 
-**Mackandal AI** est un projet open source ambitieux visant à créer une **intelligence linguistique** adaptée au **créole haïtien** et autres langues marginalisées. Il repose sur des technologies modernes et éthiques, pour rendre l’IA accessible à tous.
+**Mackandal AI** est un projet open source ambitieux visant à créer une **intelligence linguistique** adaptée au **créole haïtien** et autres langues marginalisées. Il repose sur des technologies modernes et éthiques, pour rendre l'IA accessible à tous.
 
 #### 🎯 Objectifs :
 - Traduction automatique FR ↔ Kreyòl (`Tradiktè Mackandal`)
@@ -25,10 +51,9 @@ Je suis **Falandy JEAN**, étudiant en informatique à l'**École Supérieure d'
 - **Prompt Engineering** – Construction de prompts immersifs et optimisés
 - **Git / GitHub** – Collaboration, versionnage, gestion de projet
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FalandyJEAN&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ➡️ [Voir le projet Mackandal](https://github.com/FalandyJEAN/mackandal)
+
+---
 
 ### SnapTrad
 
@@ -44,14 +69,40 @@ Je suis **Falandy JEAN**, étudiant en informatique à l'**École Supérieure d'
 
 ---
 
+## 🗂️ Nouveaux dossiers/projets significatifs
+
+### Stockify API
+
+Un **SaaS backend** pour la gestion de stock, conçu pour offrir une gestion efficace des inventaires et des mouvements de produits pour les PME.  
+➡️ [Voir Stockify API](https://github.com/FalandyJEAN/stockify-api)
+
+### Snapp AI
+
+Un projet de **vision par ordinateur appliqué au trading algorithmique**. Il vise à exploiter l'analyse d'images graphiques et de patterns de marchés pour améliorer la performance des stratégies de trading.
+➡️ [Voir Snapp AI](https://github.com/FalandyJEAN/snapp-ai)
+
+### Prompt Video Generator
+
+Un générateur de prompts immersifs et dynamiques pour modèles vidéo IA (text-to-video), conçu pour faciliter la création de contenus créatifs en automatisant la génération de prompts adaptés.
+➡️ [Voir Prompt Video Generator](https://github.com/FalandyJEAN/prompt-video-generator)
+
+### Resous Travay
+
+Plateforme dédiée à la création assistée de CV et lettres de motivation, accessible et adaptée au marché local et international.
+➡️ [Voir Resous Travay](https://github.com/FalandyJEAN/resous-travay)
+
+---
+
 ## 🔧 Stack technique principale
 
 | Langage / Outil       | Usage principal                      |
 |-----------------------|--------------------------------------|
 | 🐍 Python             | Backend, IA, APIs                    |
-| 📜 JavaScript         | Scripts, interactions                |
+| 📜 JavaScript/TypeScript | Scripts, applications web          |
 | 🚀 FastAPI            | APIs REST performantes               |
 | 🛠️ Node.js / Express | Microservices, outils de backend JS  |
+| 🔐 Prisma             | ORM moderne et type-safe             |
+| 📦 NPM Packages       | Publication de bibliothèques        |
 | 🧠 Prompt Engineering | Optimisation d'interactions LLM      |
 | 🧬 Hugging Face       | Traitement du langage, modèles open source |
 | 🧷 Git & GitHub       | Versionnage, collaboration, CI/CD    |
@@ -61,9 +112,18 @@ Je suis **Falandy JEAN**, étudiant en informatique à l'**École Supérieure d'
 ## 💼 En ce moment
 
 Je travaille sur des projets concrets pour renforcer mes compétences :
+- 🔐 Publication et maintenance de packages NPM (Lockbox Auth)
 - ⚙️ Un SaaS backend pour la gestion de stock (Stockify API)
 - 📈 Un système de vision par ordinateur pour le trading IA (Snapp AI)
 - 🧠 Un générateur de prompts immersifs pour modèles vidéo IA
+
+---
+
+## 📊 Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=FalandyJEAN&show_icons=true&theme=dark)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=FalandyJEAN&layout=compact&theme=dark)
 
 ---
 
@@ -72,19 +132,27 @@ Je travaille sur des projets concrets pour renforcer mes compétences :
 - Maîtriser les API complexes en FastAPI & Express
 - Entraîner des modèles de langue spécialisés
 - Développer un système de génération d'outils en créole via IA
-- Contribuer à l’open source et publier mes premiers packages
+- Contribuer à l'open source et publier davantage de packages NPM
+- Créer une suite complète d'outils pour développeurs
+
+---
+
+## 🏆 Certifications & Réalisations
+
+- 🎯 Package NPM publié : `@falandyjean/lockbox-auth`
+- 👨‍💼 Président du Club Numédia - ESIH
+- 🧠 Spécialisation en IA et NLP pour langues marginalisées
+- 📈 Développement d'algorithmes de trading automatisés
 
 ---
 
 ## 📫 Contact
 
-- 📬 Email : contact@mackandal-tech.com  
-- 🌐 Site : [https://mackandal-tech.com](https://mackandal-tech.com)
+- 📬 Email : contact@mackandal-tech
+- 💼 LinkedIn : [Falandy JEAN](https://www.linkedin.com/in/falandy-jean)
+- 🐦 Twitter : [@FalandyJEAN](https://twitter.com/FalandyJEAN)
+- 📦 NPM : [@falandyjean](https://www.npmjs.com/~falandyjean)
 
 ---
 
-> _"Le code peut changer une vie. L’IA peut changer un peuple."_
-
----
-
-🔒 Tous mes projets respectent des principes d'éthique, de transparence et de partage.
+💡 **N'hésitez pas à explorer mes projets et à contribuer !** Tous mes projets open source sont ouverts aux collaborations.
