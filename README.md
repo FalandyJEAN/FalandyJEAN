@@ -55,20 +55,6 @@ Je suis **Falandy JEAN**, étudiant en informatique à l'**École Supérieure d'
 
 ---
 
-### SnapTrad
-
-**SnapTrad** est une application de **trading algorithmique** que j'ai développée récemment. Elle utilise des stratégies basées sur l'analyse technique pour détecter des signaux de trading en temps réel.
-
-#### 🧰 Technologies utilisées :
-- **Python** – Développement de l'algorithme de trading
-- **Node.js / Express** – Backend pour la gestion des requêtes
-- **JavaScript** – Interface utilisateur interactive
-- **Git / GitHub** – Versionnage et collaboration
-
-➡️ [Voir le projet SnapTrad](https://github.com/FalandyJEAN/snaptrade)
-
----
-
 ## 🗂️ Nouveaux dossiers/projets significatifs
 
 ### Stockify API
