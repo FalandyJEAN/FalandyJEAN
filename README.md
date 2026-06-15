@@ -16,7 +16,7 @@ All-in-one trading platform: a trading **journal**, **bar-by-bar market replay**
 for backtesting, and an **AI mentor**. Built end-to-end — FastAPI · React · Supabase.
 
 **[Agribot](https://www.agribot.online/)**
-AI assistant for Haitian agriculture. Award-winning at Ayiti AI 2024.
+AI assistant for Haitian agriculture. Award-winning at Ayiti AI 2025.
 
 **[go-moncash-sdk](https://github.com/FalandyJEAN/go-moncash-sdk)**
 Go SDK for MonCash payment integration. Type-safe, minimal surface area, production-ready.
