@@ -15,7 +15,7 @@ MSc Computer Science student @ **ESIH** — Port-au-Prince.
 All-in-one trading platform: a trading **journal**, **bar-by-bar market replay**
 for backtesting, and an **AI mentor**. Built end-to-end — FastAPI · React · Supabase.
 
-**[AGRI / Agribot](https://www.agribot.online/)**
+**[Agribot](https://www.agribot.online/)**
 AI assistant for Haitian agriculture. Award-winning at Ayiti AI 2024.
 
 **[go-moncash-sdk](https://github.com/FalandyJEAN/go-moncash-sdk)**
