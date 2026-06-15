@@ -1,50 +1,31 @@
-![Bannière](https://github.com/FalandyJEAN/FalandyJEAN/blob/main/github-header-image%20(1).png)
-
-# 👋 Bienvenue sur mon GitHub | Falandy JEAN
-
-## 🧑‍💻 À propos de moi
-Je suis **Falandy JEAN**, étudiant en informatique à l'**ESIH**, développeur backend et passionné par l'**IA**. 
-🏆 **Champion du Hackathon Haïti IA 2024**, je travaille sur des solutions concrètes pour l'écosystème tech haïtien. Je préside également le Club **Numédia** de l'ESIH.
-
+# Falandy JEAN
+ 
+MSc computer science student, ESIH — Port-au-Prince.  
+Backend engineer. Champion, Hackathon Haïti IA 2024.  
+President, Club Numédia @ ESIH.
+ 
 ---
-
-## 🚀 Projets Phares
-
-### 🇭🇹 Go-MonCash-SDK
-Un SDK performant écrit en **Go** pour intégrer facilement les paiements **MonCash** dans des applications backend. Conçu pour être robuste, type-safe et facile à utiliser pour les développeurs locaux.
-➡️ [Voir le SDK MonCash](https://github.com/FalandyJEAN/go-moncash-sdk)
-
-### 🔐 Lockbox Auth
-Bibliothèque d'authentification complète (RBAC) pour Node.js/Express. Un package NPM professionnel pour gérer les rôles, les JWT et la sécurité sans effort.
-[![npm version](https://badge.fury.io/js/@falandyjean%2Flockbox-auth.svg)](https://www.npmjs.com/package/@falandyjean/lockbox-auth)
-https://libraries.io/pypi/fabrik-fastapi
-
-## 🔧 Stack Technique & Outils
-
-| Catégorie          | Technologies                                                                 |
-|--------------------|------------------------------------------------------------------------------|
-| **Langages** | **Go (Golang)**, Python, TypeScript/JavaScript                               |
-| **Backend & DB** | FastAPI, Node.js, **PostgreSQL (Docker)**, Prisma ORM                        |
-| **IA & NLP** | Hugging Face, Prompt Engineering, OpenAI API                                 |
-| **DevOps & Tools** | **Docker**, Git/GitHub (CLI), Linux                                          |
-
+ 
+## Projects
+ 
+**[go-moncash-sdk](https://github.com/FalandyJEAN/go-moncash-sdk)**  
+Go SDK for MonCash payment integration. Type-safe, minimal surface area, production-ready.
+ 
+**[@falandyjean/lockbox-auth](https://www.npmjs.com/package/@falandyjean/lockbox-auth)**  
+RBAC + JWT auth library for Node.js/Express. One dependency. No magic.
+ 
 ---
-
-## 🏆 Réalisations & Impact
-- 🥇 **Champion Hackathon Haïti IA** : Développement de solutions innovantes basées sur l'IA.
-- 📦 **NPM Publisher** : Créateur du package `@falandyjean/lockbox-auth`.
-- 👨‍💼 **Président Club Numédia** : Mentorat et promotion de la culture numérique à l'ESIH.
-
+ 
+## Stack
+ 
+Go · Python · TypeScript  
+FastAPI · Node.js · PostgreSQL · Prisma  
+Docker · Linux  
+Hugging Face · OpenAI API
+ 
 ---
-
-## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=FalandyJEAN&show_icons=true&theme=dark)
-
----
-
-## 📫 Me contacter
-- 💼 LinkedIn : [Falandy JEAN](https://www.linkedin.com/in/falandy-jean)
-- 📦 NPM : [@falandyjean](https://www.npmjs.com/~falandyjean)
-- 📬 Email : contact@mackandal-tech.com
-
-💡 *Passionné par l'open-source, je suis toujours ouvert aux collaborations sur des projets Go, Python ou IA !*
+ 
+## Contact
+ 
+[LinkedIn](https://www.linkedin.com/in/falandy-jean) · [NPM](https://www.npmjs.com/~falandyjean) · contact@mackandal-tech.com
+ 
