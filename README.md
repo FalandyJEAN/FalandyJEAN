@@ -17,12 +17,7 @@ Un SDK performant écrit en **Go** pour intégrer facilement les paiements **Mon
 ### 🔐 Lockbox Auth
 Bibliothèque d'authentification complète (RBAC) pour Node.js/Express. Un package NPM professionnel pour gérer les rôles, les JWT et la sécurité sans effort.
 [![npm version](https://badge.fury.io/js/@falandyjean%2Flockbox-auth.svg)](https://www.npmjs.com/package/@falandyjean/lockbox-auth)
-
-### 🧠 Mackandal AI
-Intelligence linguistique dédiée au **créole haïtien**. Traduction automatique et outils IA pour rendre la technologie accessible dans notre langue maternelle.
-➡️ [Voir Mackandal AI](https://github.com/FalandyJEAN/mackandal)
-
----
+https://libraries.io/pypi/fabrik-fastapi
 
 ## 🔧 Stack Technique & Outils
 
