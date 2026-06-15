@@ -30,9 +30,12 @@ RBAC + JWT auth library for Node.js/Express. One dependency. No magic.
 ## Stack
 
 ```ts
+
 const falandy = {
   role:     "Backend engineer",
   ceo:      "Crusaders Company",
+  focus:    ["APIs", "payments", "auth", "AI products"],
   building: ["TradeMakaya", "AGRI"],
-  ships:    true,
+  stack:    ["Go", "Python", "TypeScript"],
+  open_to:  "backend / platform roles",
 };
