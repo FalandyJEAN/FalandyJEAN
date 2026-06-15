@@ -16,7 +16,7 @@ All-in-one trading platform: a trading **journal**, **bar-by-bar market replay**
 for backtesting, and an **AI mentor**. Built end-to-end — FastAPI · React · Supabase.
 
 **[Agribot](https://www.agribot.online/)**
-AI assistant for Haitian agriculture. Champion at Ayiti AI 2024.
+AI assistant for Haitian agriculture. Champion at Ayiti AI 2025.
 
 **[fabrik-fastapi](https://pypi.org/project/fabrik-fastapi/)**
 Opinionated FastAPI project generator (CLI). One command scaffolds JWT auth, an
