@@ -44,8 +44,10 @@ const falandy = {
 };
 ```
 
-FastAPI · Node.js · PostgreSQL · Prisma
-Docker · Linux · Hugging Face · OpenAI API
+**Backend**  FastAPI · Node.js · PostgreSQL · Prisma · Docker · Linux
+**AI**  Claude Code · OpenAI API · Hugging Face · prompt engineering
+**Microsoft 365 / Low-code**  Power Apps · Power Automate · SharePoint · SPFx
+**CRM**  Zoho CRM
 
 ---
 
