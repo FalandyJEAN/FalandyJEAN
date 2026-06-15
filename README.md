@@ -5,7 +5,7 @@
 
 MSc Computer Science student @ **ESIH** — Port-au-Prince.
 **CEO @ Crusaders Company** · President, Club Numédia @ ESIH.
-🏆 Champion — **1st edition, Ayiti AI** (Hackathon Haïti IA 2024) with **Agribot** → [agribot.online](https://www.agribot.online/)
+🏆 Champion — **1st edition, Ayiti AI** (Hackathon Haïti IA 2025) with **Agribot** → [agribot.online](https://www.agribot.online/)
 
 ---
 
